@@ -33,14 +33,14 @@ Se encarga de:
 ![](images/laboratoriafoot.jpg)
 
 RETO 2
- Identifica los elementos de navegación en los siguientes sites
+ Identifica los elementos de navegación en los siguientes sites.
 
 GITHUB
 
 ## NAVEGACIÓN
 
-La navegación es la facilidad que tiene el ususario para poder dezplazarse por la página web y todas las páginas que contiene
-una misma página web.
+La navegación es la facilidad que tiene el usuario para poder dezplazarse por la página web y todas las páginas que contiene
+la misma página web.
 Haciendo que el usuario no se pierda en la página y pueda reconocer donde esta, donde ha estado  y a donde puede o quiere ir.
 
 ![](images/github.png)
@@ -50,3 +50,13 @@ Haciendo que el usuario no se pierda en la página y pueda reconocer donde esta,
 ![](images/github4.png)
 ![](images/github5.png)
 ![](images/github6.png)
+
+RETO 3
+  Crea un sketch para la herramienta del dashboard de Laboratoria.
+
+DASHBOARD
+
+##SKETCH
+
+![](images/sketch1.png)
+![](images/sketch.png)
