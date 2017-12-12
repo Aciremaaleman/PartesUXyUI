@@ -43,6 +43,8 @@ La navegación es la facilidad que tiene el usuario para poder dezplazarse por l
 la misma página web.
 Haciendo que el usuario no se pierda en la página y pueda reconocer donde esta, donde ha estado  y a donde puede o quiere ir.
 
+Tienes distintos Elementos de identificación dentro de la página de Github, empezando en la Global que es la página principal de Github, Local que se muestra cuando ya estas inscrito a github y los elementos que te ayudan a navegar dentro de la página, conteniendo en ella elementos Facetados, Contextuales e Inline principalmente.
+
 ![](images/github.png)
 ![](images/github1.1.png)
 ![](images/github1.png)
